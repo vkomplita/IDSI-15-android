@@ -158,7 +158,7 @@ int id icon 0x7f070024
 int id image_view 0x7f070027
 int id launch_product_query 0x7f07001b
 int id list_slidermenu 0x7f070021
-int id map 0x7f07002c
+int id mapView 0x7f07002c
 int id match_parent 0x7f07000e
 int id monochrome 0x7f070016
 int id none 0x7f070000

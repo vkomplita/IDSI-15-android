@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="DAS_ETOILE_PHARMACIES">
+  <name>DAS_ETOILE_PHARMACIES</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>DAS_ETOILE_PHARMACIES</name>
+    <Snippet></Snippet>
+    <description><![CDATA[DAS_ETOILE_PHARMACIES]]></description>
+    <Placemark id="ID_00000">
+      <name>930225022803</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>930225022803</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225022803</td>
+</tr>
+<tr>
+<td>ADRESSE</td>
+<td>Boulevard du Pont-d'Arve 27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1205</td>
+</tr>
+<tr>
+<td>COMMUNE</td>
+<td>Genève-Plainpalais</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHARMACIE</td>
+<td>Pharmacie du Pont d'Arve</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 320 52 16</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.143794618377804,46.19508459598048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>930225013556</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>930225013556</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225013556</td>
+</tr>
+<tr>
+<td>ADRESSE</td>
+<td>Rue du Grand-Pré 76</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1202</td>
+</tr>
+<tr>
+<td>COMMUNE</td>
+<td>Genève-Petit-Saconnex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHARMACIE</td>
+<td>Pharmacie du Grand-Pré SA</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 733 19 19</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.131098393122973,46.21597971801714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>40716170618</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>40716170618</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>40716170618</td>
+</tr>
+<tr>
+<td>ADRESSE</td>
+<td>Rue de Bandol 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1213</td>
+</tr>
+<tr>
+<td>COMMUNE</td>
+<td>Onex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHARMACIE</td>
+<td>Pharmacie de Bandol SA</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 792 33 33</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.107182264699079,46.18650216911228,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>930225004430</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>930225004430</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225004430</td>
+</tr>
+<tr>
+<td>ADRESSE</td>
+<td>Chemin de la Caroline 18A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1213</td>
+</tr>
+<tr>
+<td>COMMUNE</td>
+<td>Lancy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHARMACIE</td>
+<td>Pharmacie Plus du Centre Caroll</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 792 86 66</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.108993870910545,46.19117520243535,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>930225033856</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>930225033856</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225033856</td>
+</tr>
+<tr>
+<td>ADRESSE</td>
+<td>Chemin de l'Auberge 2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1213</td>
+</tr>
+<tr>
+<td>COMMUNE</td>
+<td>Onex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHARMACIE</td>
+<td>Pharmacie d'Onex </td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 792 72 72</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.098272658634711,46.18261658848788,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>930225035332</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>930225035332</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225035332</td>
+</tr>
+<tr>
+<td>ADRESSE</td>
+<td>Rue de Bernex 260</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1233</td>
+</tr>
+<tr>
+<td>COMMUNE</td>
+<td>Bernex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHARMACIE</td>
+<td>Pharmacie de Bernex</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 757 24 32</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.074143130226007,46.17608532701495,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>930225003257</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>930225003257</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225003257</td>
+</tr>
+<tr>
+<td>ADRESSE</td>
+<td>Rue des Bossons 23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1213</td>
+</tr>
+<tr>
+<td>COMMUNE</td>
+<td>Onex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHARMACIE</td>
+<td>Pharmacie Populaire Gros-Chêne</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 793 17 17</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.10537667297032,46.18759087675662,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>930225013721</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>930225013721</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225013721</td>
+</tr>
+<tr>
+<td>ADRESSE</td>
+<td>Avenue des Grandes-Communes 27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1213</td>
+</tr>
+<tr>
+<td>COMMUNE</td>
+<td>Onex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHARMACIE</td>
+<td>Pharmacie Munier SA</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 870 18 18</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.10341521446798,46.19183958248468,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>930225026359</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>930225026359</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225026359</td>
+</tr>
+<tr>
+<td>ADRESSE</td>
+<td>Chemin de Saule 27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1233</td>
+</tr>
+<tr>
+<td>COMMUNE</td>
+<td>Bernex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHARMACIE</td>
+<td>Pharmacie Plus de Saule</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 757 27 27</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.073977307626645,46.17661917897955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>930225003270</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>930225003270</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225003270</td>
+</tr>
+<tr>
+<td>ADRESSE</td>
+<td>Rue des Bossons 78</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1213</td>
+</tr>
+<tr>
+<td>COMMUNE</td>
+<td>Lancy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHARMACIE</td>
+<td>Pharmacie Populaire Petit-Lancy/Onex</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 792 79 11</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.110063318290346,46.18845751824735,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_12c40950_0.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

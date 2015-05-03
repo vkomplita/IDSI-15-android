@@ -10,6 +10,7 @@ import ch.unige.idsi15.swisstoolapp.model.NavDrawerItem;
 import zxing.library.DecodeCallback;
 import zxing.library.ZXingFragment;
 
+import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.zxing.Result;
 
 import java.util.ArrayList;
@@ -21,6 +22,7 @@ import android.support.v4.app.FragmentManager;
 import android.content.res.Configuration;
 import android.content.res.TypedArray;
 import android.os.Bundle;
+import android.os.StrictMode;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v4.app.Fragment;
@@ -31,7 +33,8 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-public class MainActivity extends FragmentActivity {
+public class MainActivity extends FragmentActivity{
+	
 	private DrawerLayout mDrawerLayout;
 	private ListView mDrawerList;
 	private ActionBarDrawerToggle mDrawerToggle;
@@ -53,6 +56,11 @@ public class MainActivity extends FragmentActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		//THREAD POLICY CORRECTION
+		if (android.os.Build.VERSION.SDK_INT > 9) {
+		    StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+		    StrictMode.setThreadPolicy(policy);
+		}
 
 		mTitle = mDrawerTitle = getTitle();
 
@@ -175,19 +183,19 @@ public class MainActivity extends FragmentActivity {
 		Fragment fragment = null;
 		switch (position) {
 		case 0:
-			fragment = new HomeFragment();
+			fragment = new HomeFragment(0);
 			break;
 		case 1:
-			fragment = new FindPeopleFragment();
+			fragment = new HomeFragment(1);
 			break;
 		case 2:
-			fragment = new PhotosFragment();
+			fragment = new HomeFragment(2);
 			break;
 		case 3:
-			fragment = new CommunityFragment();
+			fragment = new HomeFragment(3);
 			break;
 		case 4:
-			fragment = new PagesFragment();
+			fragment = new HomeFragment(4);
 			break;
 		case 5:
 			fragment = new WhatsHotFragment();

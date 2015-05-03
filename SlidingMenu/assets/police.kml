@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="POL_POSTE_POLICE">
+  <name>POL_POSTE_POLICE</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>POL_POSTE_POLICE</name>
+    <Snippet></Snippet>
+    <description><![CDATA[POL_POSTE_POLICE]]></description>
+    <Placemark id="ID_00000">
+      <name>ptpol3009</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3009</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3009</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Rue de Carouge 51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Plainpalais</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste9">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste9</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.143847247082199,46.19360832993274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>ptpol3013</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3013</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3013</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Boulevard Carl-VOGT 17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>VHP</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste13">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste13</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>HP</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.132393500683349,46.20008626013534,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>ptpol3006</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3006</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3006</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Route du Pont-BUTIN 55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Lancy - Onex</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste6">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste6</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.113396460999359,46.18939052888081,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>ptpol3001</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3001</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3001</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Chemin de Blandonnet 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Blandonnet</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste1">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste1</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.097388676636769,46.22034955023562,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>ptpol3011</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3011</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3011</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Avenue WENDT 61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Servette</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste11">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste11</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.128824236796183,46.21330984557482,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>ptpol3004</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3004</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3004</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Rue de Genève 93</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Chêne</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste4">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste4</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.199779220602026,46.19356353233202,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>ptpol3007</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3007</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3007</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Route de La-Capite 249</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Pallanterie</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste7">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste7</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.215046051487946,46.24663618556838,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>ptpol3012</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3012</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3012</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Place Charles-DAVID 5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Versoix</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste12">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste12</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.167732300036152,46.27902024501651,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>ptpol3010</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3010</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3010</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Rue Adrien-LACHENAL 17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Rive</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste10">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste10</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.156803449916758,46.19939100116238,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>ptpol3008</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3008</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3008</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Rue de Berne 6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Pâquis</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste8">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste8</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.145071899422998,46.20901055077352,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>ptpol3002</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3002</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3002</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Place du Bourg-de-Four 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Bourg-de-Four</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste2">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste2</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.149324537281538,46.20039258919726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>ptpol3003</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3003</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3003</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Rue de la Fontenette 16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Carouge</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste3">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste3</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.145437680955782,46.18403596565386,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>ptpol3014</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3014</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3014</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Chemin de la Gravière 5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>NHP</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste14">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste14</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>HP</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.129462870600499,46.1969024906507,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>ptpol3016</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3016</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3016</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Quai Gustave-ADOR 11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Navigation</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste16">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste16</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Brigade</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.156380861085463,46.20533578539442,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>ptpol3005</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3005</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3005</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Place de Montbrillant 6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Gare Cornavin</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste5">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste5</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.141519671283815,46.21021493265136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>ptpol3017</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3017</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3017</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Route de l'Aéroport 21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>Aéroport</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste17">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste17</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Poste</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.108422647118754,46.23029442745592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>ptpol3015</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ptpol3015</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_POSTE</td>
+
+<td>ptpol3015</td>
+
+</tr>
+
+<tr>
+
+<td>ADRESSE</td>
+
+<td>Chemin de Trèfle-Blanc 17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DENOMINATION</td>
+
+<td>BSR / BTR</td>
+
+</tr>
+
+<tr>
+
+<td>LIEN_INTERNET</td>
+
+<td><a target="_blank" href="http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste15">http://www.ge.ch/police/nos-services/gendarmerie/postes-de-police/welcome.asp?poste=poste15</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPOLOGIE_POSTE</td>
+
+<td>Brigade</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconPolice</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.130134314228908,46.1707663464127,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconPolice">
+    <IconStyle>
+      <Icon><href>1429483815_important.png</href></Icon>
+      <scale>1</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
