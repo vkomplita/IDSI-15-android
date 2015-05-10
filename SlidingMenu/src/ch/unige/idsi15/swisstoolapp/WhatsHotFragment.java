@@ -26,8 +26,12 @@ public class WhatsHotFragment extends ZXingFragment {
 
 	        @Override
 	        public void handleBarcode(Result result, Bitmap arg1, float arg2) {
-	            Toast.makeText(getActivity(), result.getText(), Toast.LENGTH_LONG).show();
-	            WhatsHotFragment.this.restartScanningIn(200);
+	        	
+	        	MainActivity.setQrCodeId(result.getText());
+	        	
+	            Toast.makeText(getActivity(), "Application synchronisée: vos lieux d'intérêt sont disponibles sur 'Mes Lieux'" , Toast.LENGTH_LONG).show();
+	            
+	            //WhatsHotFragment.this.restartScanningIn(200);
 	        }
 
 	    });	

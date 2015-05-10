@@ -3,9 +3,16 @@ package ch.unige.idsi15.swisstoolapp;
 import ch.unige.idsi15.swisstoolapp.adapter.NavDrawerListAdapter;
 import ch.unige.idsi15.swisstoolapp.model.NavDrawerItem;
 
+
+
+
+
+
 /*
  *  ZXing
  * */
+
+
 
 import zxing.library.DecodeCallback;
 import zxing.library.ZXingFragment;
@@ -13,14 +20,20 @@ import zxing.library.ZXingFragment;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.zxing.Result;
 
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.List;
+import java.util.Locale;
 
 import android.app.Activity;
 import android.support.v4.app.FragmentActivity;
 //import android.app.Fragment;
 import android.support.v4.app.FragmentManager;
+import android.content.Context;
 import android.content.res.Configuration;
 import android.content.res.TypedArray;
+import android.location.Address;
+import android.location.Geocoder;
 import android.os.Bundle;
 import android.os.StrictMode;
 import android.support.v4.app.ActionBarDrawerToggle;
@@ -32,9 +45,11 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends FragmentActivity{
-	
+
 	private DrawerLayout mDrawerLayout;
 	private ListView mDrawerList;
 	private ActionBarDrawerToggle mDrawerToggle;
@@ -51,6 +66,48 @@ public class MainActivity extends FragmentActivity{
 
 	private ArrayList<NavDrawerItem> navDrawerItems;
 	private NavDrawerListAdapter adapter;
+	private static String qrCodeId = null;
+
+	
+	public static String getQrCodeId() {
+		return qrCodeId;
+	}
+
+
+	public static void setQrCodeId(String pQrCodeId) {
+		qrCodeId =pQrCodeId ;
+
+	}	
+	
+	
+	
+	/*Retrieve address from coordinates*/
+	 public static String getAddress(Context context, double lat , double lon){
+		    /*Geocoder address retrieve*/
+		    String filterAddress = "";
+		    Geocoder geoCoder = new Geocoder(
+		            context, Locale.getDefault());
+		    try {
+		        List<Address> addresses = geoCoder.getFromLocation(
+		        		lat, 
+		        		lon, 1);
+
+		        if (addresses.size() > 0) {
+		            for (int index = 0; 
+		                    index < addresses.get(0).getMaxAddressLineIndex(); index++)
+		                filterAddress += addresses.get(0).getAddressLine(index) + " ";
+		        }
+		    }catch (IOException ex) {        
+		        ex.printStackTrace();
+		    }catch (Exception e2) {
+		        // TODO: handle exception
+
+		        e2.printStackTrace();
+		    } 
+		    
+		    return filterAddress;
+		    }
+		    
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -87,8 +144,12 @@ public class MainActivity extends FragmentActivity{
 		navDrawerItems.add(new NavDrawerItem(navMenuTitles[3], navMenuIcons.getResourceId(3, -1), true, "22"));
 		// Pages
 		navDrawerItems.add(new NavDrawerItem(navMenuTitles[4], navMenuIcons.getResourceId(4, -1)));
+		// Taxi
+		navDrawerItems.add(new NavDrawerItem(navMenuTitles[5], navMenuIcons.getResourceId(5, -1)));
 		// What's hot, We  will add a counter here
-		navDrawerItems.add(new NavDrawerItem(navMenuTitles[5], navMenuIcons.getResourceId(5, -1), true, "50+"));
+		navDrawerItems.add(new NavDrawerItem(navMenuTitles[6], navMenuIcons.getResourceId(6, -1), true, "50+"));
+		
+		navDrawerItems.add(new NavDrawerItem(navMenuTitles[7], navMenuIcons.getResourceId(7, -1)));
 		
 
 		// Recycle the typed array
@@ -128,6 +189,7 @@ public class MainActivity extends FragmentActivity{
 			// on first time display view for first nav item
 			displayView(0);
 		}
+	
 	}
 
 	/**
@@ -198,14 +260,18 @@ public class MainActivity extends FragmentActivity{
 			fragment = new HomeFragment(4);
 			break;
 		case 5:
-			fragment = new WhatsHotFragment();
-			//fragment = new ZXingFragment();
-			
-			
-			
-			
+			fragment = new HomeFragment(5);
 			break;
-
+		case 6:
+			//QRCODE SCAN
+			
+			fragment = new WhatsHotFragment();
+			//fragment = new ZXingFragment();			
+			break;
+		case 7:
+			
+			fragment = new PhotosFragment();
+			break;
 		default:
 			break;
 		}
@@ -226,6 +292,12 @@ public class MainActivity extends FragmentActivity{
 		}
 	}
 
+	
+	
+	
+	
+	
+	
 	@Override
 	public void setTitle(CharSequence title) {
 		mTitle = title;

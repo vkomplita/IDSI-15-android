@@ -1,0 +1,4216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="GEO_POSTE_PT">
+  <name>GEO_POSTE_PT</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>GEO_POSTE_PT</name>
+    <Snippet></Snippet>
+    <description><![CDATA[GEO_POSTE_PT]]></description>
+    <Placemark id="ID_00000">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1201</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 1 Mont-Blanc</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225019480</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.144807833756977,46.20868818604143,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Genève 15 Aéroport</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève 15 Aéroport</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1215</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève 15 Aéroport</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1215 Genève 15 Aéroport Dépôt</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>951107135242</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.107191945550791,46.22975614900403,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Vessy</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Vessy</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1234</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Vessy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1234 Vessy</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225040152</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.158140035844767,46.17220125074759,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Perly</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Perly</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1258</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Perly</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1258 Perly</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225004859</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.092840492191274,46.15622000603941,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Cartigny</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cartigny</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1236</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Cartigny</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Agence postale 1236 Cartigny</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Agence postale</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225023296</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.020626364394152,46.17389638458662,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Petit-Lancy</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Petit-Lancy</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1213</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Petit-Lancy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1213 Petit-Lancy 2 Place des Ormeaux</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225020668</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.119303286363983,46.19006799594694,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Vésenaz</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Vésenaz</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1222</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Vésenaz</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1222 Vésenaz</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225031275</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.197708663078236,46.23775610168154,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Petit-Lancy</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Petit-Lancy</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1213</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Petit-Lancy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1213 Petit-Lancy 1</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225042780</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.110335334527946,46.1887946594566,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Bernex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bernex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1233</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Bernex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1233 Bernex</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225035379</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.071564035413366,46.17477254566537,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Le Grand-Saconnex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Le Grand-Saconnex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1218</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Le Grand-Saconnex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1218 Le Grand-Saconnex</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225045913</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.120299088073982,46.2289950092377,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1201</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 2 Cornavin Dépôt</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225044021</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.142169365227394,46.21293394309458,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Chêne-Bourg</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chêne-Bourg</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1225</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Chêne-Bourg</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1225 Chêne-Bourg</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225044138</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.19297752818629,46.19457590254132,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Anières</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Anières</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1247</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Anières</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1247 Anières</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225034663</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.227216439807203,46.27480507836205,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1204</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 3 Rive</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225031189</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.150259392764233,46.20193677301571,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1202</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1211 Genève 27 OMS</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225000895</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.134613172566398,46.23299927128713,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1209</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 28 Balexert</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225004623</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.113433492793114,46.21972215156671,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Meyrin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Meyrin</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1217</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Meyrin</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1217 Meyrin 2 Village</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225030103</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.072336401801818,46.22822168673304,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1208</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 17 Malagnou</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225017354</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.165170844450273,46.19680337970874,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1202</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1211 Genève 10 Nations Unies</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225020776</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.141113562036902,46.22545446071828,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Chêne-Bougeries</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chêne-Bougeries</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1224</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Chêne-Bougeries</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1224 Chêne-Bougeries</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225006269</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.187285818910588,46.19811772914124,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Gy</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Gy</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1251</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Gy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Agence postale 1251 Gy</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Agence postale</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225014391</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.255249728362418,46.25127987072722,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Cologny</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cologny</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1223</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Cologny</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1223 Cologny</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225017150</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.184302369507576,46.21765198663115,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1209</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 19 Petit-Saconnex</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225028979</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.126288989681289,46.22462233398822,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1202</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1211 Genève 22 BIT</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225019773</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.13399244793803,46.22966972989396,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Les Acacias</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Les Acacias</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1227</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Les Acacias</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 24 Les Acacias</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225000037</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.137000786735525,46.19223218717511,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Troinex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Troinex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1256</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Troinex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1256 Troinex</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225013268</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.149107025836349,46.16027487330363,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Meyrin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Meyrin</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1217</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Meyrin</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1217 Meyrin 1</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225010987</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.082184911974034,46.2320423206582,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Plan-les-Ouates</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Plan-les-Ouates</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1228</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Plan-les-Ouates</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1228 Plan-les-Ouates</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>940829153512</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.121241637965665,46.16884694857448,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Thônex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Thônex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1226</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Thônex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1226 Thônex</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225044080</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.20168381982189,46.19268512826087,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1203</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 18 St-Jean</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225002371</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.125546612317423,46.20519719674304,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Avully</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Avully</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1237</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Avully</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1237 Avully</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225012459</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 5.994055925217428,46.16811986492363,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Genthod</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genthod</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1294</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genthod</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1294 Genthod</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225024407</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.155608893243325,46.26539330306616,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Hermance</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hermance</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1248</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Hermance</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Agence postale 1248 Hermance</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Agence postale</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225044420</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.244642605621189,46.30250811535297,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>La Plaine</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>La Plaine</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1283</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>La Plaine</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1283 La Plaine</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225022343</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.002731003498698,46.17735332819142,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Jussy</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jussy</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1254</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Jussy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1254 Jussy</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>940127110020</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.266701631711357,46.23521492216617,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1203</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 13 Les Charmilles</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225005682</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.127622517445193,46.2074162927288,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1204</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 11 Rue du Stand</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office deposte</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225045519</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.14079969399764,46.20384917980412,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1207</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 6 Les Eaux-Vives</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930325144634</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.161222964757756,46.2023765841513,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Versoix</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Versoix</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1290</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Versoix</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1290 Versoix</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225029763</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.166543956108501,46.28015875612393,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Châtelaine</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Châtelaine</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1219</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Châtelaine</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1219 Châtelaine</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225017263</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.112236486541081,46.21164832880818,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>Corsier GE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Corsier GE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1246</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Corsier GE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1246 Corsier GE</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225045225</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.223911233094844,46.26302576606099,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1205</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 4 Plainpalais</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225021872</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.14255701074552,46.19381735894186,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Onex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Onex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1213</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Onex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1213 Onex</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225002788</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.100535645784636,46.18526850556855,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>Bellevue</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bellevue</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1293</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Bellevue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1293 Bellevue</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225033409</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.154587815576536,46.25487179302635,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>Veyrier</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Veyrier</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1255</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Veyrier</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1255 Veyrier</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225046043</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.184070673059436,46.1661665510504,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>Vernier</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Vernier</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1214</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Vernier</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1214 Vernier</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225031401</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.0837207687335,46.21518810976487,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>Athenaz</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Athenaz</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1285</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Athenaz</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Agence postale 1285 Athenaz (Avusy)</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Agence postale</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225013932</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.006781345336004,46.15396327660159,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>Grand-Lancy 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Grand-Lancy 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1212</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Grand-Lancy 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1212 Grand-Lancy 1</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225043338</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.122867102401816,46.17376515679788,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>Genève 15 Aéroport</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève 15 Aéroport</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1215</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève 15 Aéroport</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1211 Genève 5 Dépôt</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225046300</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.117795752534081,46.2383458127091,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>Vandoeuvres</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Vandoeuvres</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1253</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Vandoeuvres</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Agence postale 1253 Vandoeuvres</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Agence postale</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225006608</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.203061186817981,46.22126029167556,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Aire-la-Ville</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Aire-la-Ville</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1288</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Aire-la-Ville</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Agence postale 1288 Aire-la-Ville</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Agence postale</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225045128</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.042879271627533,46.19044995010618,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Meinier</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Meinier</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1252</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Meinier</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1252 Meinier</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225014351</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.231533690210749,46.24561574874795,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1202</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 7 Servette</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225026970</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.134407811417806,46.2116527244831,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>Cointrin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cointrin</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1216</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Cointrin</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1216 Cointrin</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225004650</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.107696515011227,46.22439596519646,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>Confignon</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Confignon</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1232</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Confignon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1232 Confignon</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225022933</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.080666435909935,46.1729242999912,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00055">
+      <name>La Croix-de-Rozon</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>La Croix-de-Rozon</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1257</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>La Croix-de-Rozon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1257 La Croix-de-Rozon</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225041160</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.135523067741756,46.14593449911228,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00056">
+      <name>Meyrin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Meyrin</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1217</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Meyrin</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1211 Genève 23 CERN</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225018735</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.052520429425456,46.23404717537061,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00057">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1205</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 8 Jonction</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225031839</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.132661894425145,46.19994285916975,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00058">
+      <name>Le Lignon</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Le Lignon</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1219</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Le Lignon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1219 Le Lignon</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225047743</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.097634184008403,46.20441670044319,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00059">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1202</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 20 CIC</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225046406</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.138570587001442,46.21987704946709,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00060">
+      <name>Chambésy</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chambésy</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1292</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Chambésy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1292 Chambésy</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225004967</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.146624399993785,46.24346193097099,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00061">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1206</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 12 Champel</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225005188</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.151886030916144,46.1948816307381,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00062">
+      <name>Puplinge</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Puplinge</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1241</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Puplinge</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1241 Puplinge</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225034872</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.23114291243657,46.21064199054197,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00063">
+      <name>Genève</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Genève</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1201</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Genève</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 21 Les Pâquis</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225020897</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.15046569134332,46.21325555124193,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00064">
+      <name>Les Acacias</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Les Acacias</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1227</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Les Acacias</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1200 Genève 26 La Praille</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225044184</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.127276301279246,46.18788586642648,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00065">
+      <name>Conches</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Conches</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1231</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Conches</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1231 Conches</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225011258</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.17402848218888,46.18465945333583,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00066">
+      <name>Collex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Collex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1239</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Collex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1239 Collex</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225031822</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.125627495636967,46.27156211906242,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00067">
+      <name>Satigny</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Satigny</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1242</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Satigny</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1242 Satigny</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225000337</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.033989983627502,46.21340444586474,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00068">
+      <name>Carouge GE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Carouge GE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1227</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Carouge GE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1227 Carouge GE</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225023873</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.137486900695252,46.1835068453297,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00069">
+      <name>Collonge-Bellerive</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Collonge-Bellerive</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1245</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Collonge-Bellerive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1245 Collonge-Bellerive</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225014701</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.205427047863672,46.2548047354785,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00070">
+      <name>Aïre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Aïre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Multipoint</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NO_POSTAL</td>
+<td>1219</td>
+</tr>
+<tr>
+<td>NOM</td>
+<td>Aïre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION1</td>
+<td>Office de poste 1219 Aïre</td>
+</tr>
+<tr>
+<td>DESCRIPTION2</td>
+<td>Office de poste</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>IDPADR</td>
+<td>930225000271</td>
+</tr>
+<tr>
+<td>LIEN_WWW</td>
+<td><a target="_blank" href="http://www.poste.ch">http://www.poste.ch</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <MultiGeometry>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 6.105847213808453,46.20279383772105,0</coordinates>
+        </Point>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_12c40200_0.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

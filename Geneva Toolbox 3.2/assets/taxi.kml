@@ -1,0 +1,4245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="OTC_STATION_TAXI">
+  <name>OTC_STATION_TAXI</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>OTC_STATION_TAXI</name>
+    <Snippet></Snippet>
+    <description><![CDATA[OTC_STATION_TAXI]]></description>
+    <Placemark id="ID_00000">
+      <name>Prieuré</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Prieuré</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Prieuré</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>GAUTIER,  rue J.-A.  n°2</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>30</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.151257910662542,46.21392675813184,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Bernex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bernex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Bernex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Distillerie,  chemin de la  n°17</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>12</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.076640775485196,46.17722853347781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Jonction</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jonction</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Jonction</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>DUFOUR,  rue David-  n°6-8</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>20</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.131784364524184,46.20084289958716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Plainpalais</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Plainpalais</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Plainpalais</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Plainpalais,  rond-point de  n°1</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>43</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>9</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.142368432240075,46.19791364311313,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Gradelle</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Gradelle</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Gradelle</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Gradelle,  chemin de la  n°41</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>20</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.187330546064457,46.20390179220867,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Peyrot</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Peyrot</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Peyrot</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Peyrot, route François-</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>15</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.116486490674769,46.23477293496735,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Varembé</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Varembé</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Varembé</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Rue de Varembé</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>18</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.138630504509428,46.22061014591538,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Neuve</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Neuve</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Neuve</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Neuve,  place de (au centre)</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>22</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.143053241747261,46.20125051651321,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td></td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td></td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.155918809484472,46.20601586135962,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Délices</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Délices</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Délices</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Délices,  rue des  n°1-3</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>20</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.132668162640265,46.20619060537781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Lancy-Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Lancy-Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Lancy-Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Chancy,  route de  n°57-59</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Domaine privé.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>10</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.113296114222126,46.18794737109639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Wilsdorf, rue Hans</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>22</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.134375134834677,46.19367612541541,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Nautique (en travaux)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Nautique (en travaux)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Nautique (en travaux)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Cologny,  quai de n°3</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>10</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.17364228547073,46.21301438101552,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Rois</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rois</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Rois</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Rois,  rue des n°13-15</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>22</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.137764144027678,46.20226063651014,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Gare des Eaux-Vives</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Gare des Eaux-Vives</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Gare des Eaux-Vives</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Gare-des-Eaux-Vives  n°10</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>30</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.166651095405315,46.20087271755369,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Charmilles</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Charmilles</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Charmilles</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Bourgogne,  rue de n°2 (en face du)</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>30</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.126368633502567,46.20943600653784,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Molard</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Molard</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Molard</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Lac,  place du</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>41</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>8</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.148611460877561,46.20418680452995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Bel-Air</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bel-Air</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Bel-Air</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Corraterie,  rue de la  n°11</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>27</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>8</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.143352990950869,46.20290775555385,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Bonivard</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bonivard</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Bonivard</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Bonivard, Rue François n°4</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>50</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>10</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.146624717168289,46.20801381163768,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Office Catonal des Véhicules</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Office Catonal des Véhicules</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Office Catonal des Véhicules</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Veyrier,  route de  n°86</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>11</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.151831679915629,46.18357806134332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Champel</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Champel</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Champel</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>BERTRAND,  avenue  n°2</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>50</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>10</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.153650758605036,46.19211229678158,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Ophtalmologie</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Ophtalmologie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Ophtalmologie</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>JENTZER, rue Alcide  n°18</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>15</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.147047448767294,46.19150660607949,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Balexert</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Balexert</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Balexert</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>CASAI,  avenue Louis-  n°25</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Domaine privé,  sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>25</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.113969528072976,46.21974497189507,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Palettes</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Palettes</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Palettes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Palettes,  chemin des  n°15</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>20</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.121089135338663,46.17592916641402,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Longemalle</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Longemalle</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Longemalle</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Longemalle,  place de (au centre)</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>25</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.150315976572372,46.20333610919179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Claire-Vue</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Claire-Vue</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Claire-Vue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Claire-Vue, chemin de</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>16</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.120559395497152,46.19395044420525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Vieille-Ville</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Vieille-Ville</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Vieille-Ville</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Bourg-de-Four,  place du  n°11</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>25</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.148727693674294,46.19994685316856,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Placette</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placette</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Placette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>ROUSSEAU,  rue Jean-Jacques  n°21</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans courant fort</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>24</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.142842056502358,46.207858242877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Augustins</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Augustins</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Augustins</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Augustins,  place des</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>23.5</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.144477820947929,46.19165672945633,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Saint-Gervais</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Saint-Gervais</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Saint-Gervais</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>TURETTINI,  quai Théodore  n°5</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>30</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.141449037792907,46.20556441760702,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Pont d'Arve</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pont d'Arve</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Pont d'Arve</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>DANCET,  rue  n°1-2</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>48</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>8</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.141801280465748,46.19446520766487,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Centre commercial Meyrin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Centre commercial Meyrin</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Centre commercial Meyrin</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Place des Cinq Continents</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>12</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.081831337825132,46.23164105350417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Aéroport - Arrivée</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Aéroport - Arrivée</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Aéroport - Arrivée</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Route de l'aéroport</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans borne.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>80</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>17</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.108333699114978,46.23019480459125,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Vidollet</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Vidollet</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Vidollet</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Vidollet,  rue du  n°35</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>19</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.135781155011898,46.21745646061776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Palexpo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Palexpo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Palexpo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>SARASIN, chemin Edouard- n°41</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>125</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>50</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.117959583980702,46.23373736205543,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Lignon</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Lignon</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>36</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Lignon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Aïre,  route d'  n°176</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>30</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.103593135929859,46.20100737437413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Montbrillant</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Montbrillant</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>37</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Montbrillant</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Montbrillant, place en face du n°19</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>18</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.141651575663548,46.21059606679749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Louis hubert</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Louis hubert</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>38</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Louis hubert</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Louis hubert</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>30</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.110429077135269,46.1927104262527,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Aïre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Aïre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>39</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Aïre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Aïre, Route d'</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>9</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.106099396418036,46.20263179535382,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Hôpital cantonal</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hôpital cantonal</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>40</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Hôpital cantonal</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Entrée hopital</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>10</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.148917488121647,46.1936526014099,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>Centre commercial Lancy-Centre</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Centre commercial Lancy-Centre</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>41</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Centre commercial Lancy-Centre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Route de Chancy 77</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>20</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.111970500674332,46.18725845997526,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>Hilton</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hilton</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>42</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Hilton</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Cloche,  rue de la  n°4</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>38</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>8</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.151249853084913,46.21058830676461,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Rive</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rive</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>43</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Rive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Rive,  rond-point de  n°7</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>35</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>10</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.153191235304674,46.20194345104675,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>Zimeysa</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Zimeysa</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>44</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Zimeysa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Nant-d'Avril,  route du  n°107  (Domaine privé)</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Domaine privé,  sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>10</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.061538397831423,46.22483407480869,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>Rôtisserie</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rôtisserie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>45</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Rôtisserie</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Rôtisserie Haut-Perron</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>10</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.14758921896438,46.20239679972602,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>Tourelle</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tourelle</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>46</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Tourelle</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>DUBOULE,  chemin Moïse-  n°29-33</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>21</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.125743663672695,46.22500735588407,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>Montchoisy</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Montchoisy</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>47</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Montchoisy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>FLOURNOY,  avenue Théodore-  n°1</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>35</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.163582249120388,46.20481465612738,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>Pâquis</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pâquis</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>48</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Pâquis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Zurich,  rue de  n°19</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>20</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.147186641275024,46.21157021203787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>Chêne-Bougeries</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chêne-Bougeries</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>49</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Chêne-Bougeries</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Chêne-Bougeries, rue de n°38</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>30</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.191488609875672,46.19574154949367,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>Chevelu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chevelu</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Chevelu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Place de Chevelu</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>15</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.144679308334911,46.2063989895192,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Village-Suisse</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Village-Suisse</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>51</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Village-Suisse</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Village-Suisse,  rue du  n°12</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>17</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.135681036971799,46.20063138095432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Meyrin - Centre commercial</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Meyrin - Centre commercial</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>52</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Meyrin - Centre commercial</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Feuillasse,  avenue de  n°24</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>10</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.081938662160286,46.23206268149996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>Florissant</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Florissant</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>53</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Florissant</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Krieg,  avenue  n°7-9</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>38</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>7</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.162769795579444,46.19498790299186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>Cirque</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cirque</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Cirque</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Mail,  avenue du  n°1-3</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>50</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>10</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.140121146346818,46.20070488641515,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>Carouge</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Carouge</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Carouge</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Marché,  place du  n°5</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>16.5</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.141275792963113,46.18402500495991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00055">
+      <name>Tourelle2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tourelle2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>56</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Tourelle2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>DUBOULE,  chemin Moïse-  n°29-33</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>10</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.126256327476371,46.22477148221112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00056">
+      <name>Aéroport</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Aéroport</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>57</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Aéroport</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Zone parking cars</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Zone de stockage taxis.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>110</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>22</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.107327629400162,46.22962045651524,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00057">
+      <name>??</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>??</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>58</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>??</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Fabri, rue Adhémar</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>8</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.148391680622204,46.20881414558704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00058">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>59</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Jacob-Daniel Maillard, Avenue</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>18</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.068305221347601,46.22876453380489,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00059">
+      <name>Hôpital cantonal</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hôpital cantonal</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>60</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Hôpital cantonal</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>PERRET-GENTIL, rue Gabrielle</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>15</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.148695549528927,46.19435811297998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00060">
+      <name>Servette</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Servette</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>61</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Servette</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>HOFFMANN,  rue  n°1-2</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>60</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>12</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.129795071873153,46.21399861526018,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00061">
+      <name>Tranchées Bikini</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tranchées Bikini</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>62</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Tranchées Bikini</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>CONSTANTIN,  rue Abraham-  n°8</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>36</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>7</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.15285535341525,46.19690761785137,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00062">
+      <name>Plantamour</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Plantamour</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>63</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Plantamour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Plantamour, rue Philippe n°8</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>17</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.149069868131423,46.20970808557736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00063">
+      <name>Meyrin Village</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Meyrin Village</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>64</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Meyrin Village</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Verchère, chemin Antoine-</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>18</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.072189717380576,46.22841206861951,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00064">
+      <name>Fusterie</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Fusterie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>65</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Fusterie</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Rhône,  place du  n°2</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>Sans courant fort.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>40</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>8</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.146668823848446,46.20455332823128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00065">
+      <name>Grand-Lancy</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Grand-Lancy</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>66</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Grand-Lancy</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>LANCE,  avenue Eugène-  n°1</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>10</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.121904615815002,46.18339771819942,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00066">
+      <name>Noirettes</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Noirettes</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>67</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Noirettes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Noirettes,  rue des n°34</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>5</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.132401523949799,46.18783349923362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00067">
+      <name>ONU</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ONU</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>68</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>ONU</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Paix, Avenue de la</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>16.5</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.137999293336917,46.22758325814057,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00068">
+      <name>Hôtel Mövenpick</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hôtel Mövenpick</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>69</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Hôtel Mövenpick</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Hôtel Mövenpick^, Chemin Emile Taddéoli</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>30</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.100375011733946,46.22385812413803,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00069">
+      <name>Cluse</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cluse</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>70</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Cluse</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Cluse,  boulevard de la  n°44</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>30</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.147531055378617,46.1930400720166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00070">
+      <name>Jeu de l'Arc, rue de </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jeu de l'Arc, rue de </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>71</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Jeu de l'Arc, rue de</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Hauteur n°7</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>19.50</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.157559745978002,46.2020195020316,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00071">
+      <name>Jeu de l'Arc, rue de</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jeu de l'Arc, rue de</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>72</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Jeu de l'Arc, rue de</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Hauteur n°7</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>4.80</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.157619167639668,46.2019556696981,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00072">
+      <name>Place de Cornavin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Place de Cornavin</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>73</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Place de Cornavin</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Hauteur n°7</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>130</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>26</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.143196626272098,46.2102564614428,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00073">
+      <name>Onex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Onex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>74</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr>
+<td>STATION</td>
+<td>Onex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALISATION</td>
+<td>Grandes-Communes,  avenue des  n°27</td>
+</tr>
+<tr>
+<td>REMARQUE</td>
+<td>.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LONGUEUR</td>
+<td>16</td>
+</tr>
+<tr>
+<td>NOMBRE</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.102696672985241,46.19177367445339,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_12c406e0_0.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

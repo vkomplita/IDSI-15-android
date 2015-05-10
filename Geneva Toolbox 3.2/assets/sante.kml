@@ -1,0 +1,2562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="DAS_HOPITAUX_CLINIQUES">
+  <name>DAS_HOPITAUX_CLINIQUES</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>DAS_HOPITAUX_CLINIQUES</name>
+    <Snippet></Snippet>
+    <description><![CDATA[DAS_HOPITAUX_CLINIQUES]]></description>
+    <Placemark id="ID_00000">
+      <name>Clinique de Champel Elysée</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique de Champel Elysée</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique de Champel Elysée</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>42 avenue de Champel  1206 Genève</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 839 34 34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 839 34 10</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.champel-elysee.ch">http://www.champel-elysee.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>7</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.152401336103601,46.18910688816282,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Hôpital Cantonal Universitaire HUG</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hôpital Cantonal Universitaire HUG</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Hôpital Cantonal Universitaire HUG</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Hôpital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>Rue Gabrielle-Perret-Gentil 4  1205 Genève</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 372 33 11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.hug-ge.ch">http://www.hug-ge.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>15</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.149087429603537,46.19366480069926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Clinique des Grangettes</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique des Grangettes</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique des Grangettes</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>7 chemin des Grangettes</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 305 01 11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 349 80 21</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.grangettes.ch">http://www.grangettes.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>8</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.181891393699644,46.19994771827575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Consultations santé jeunes</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultations santé jeunes</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultations santé jeunes</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>boulevard de la Cluse 87</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.372.33.87</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.147703661173989,46.19420101748968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Consultation toxicodépendance - Rive gauche</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultation toxicodépendance - Rive gauche</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultation toxicodépendance - Rive gauche</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue Verte 2</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.320.21.50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.144616310172979,46.19051284298769,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Consultation de psychiatrie adulte - Eaux-Vives</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultation de psychiatrie adulte - Eaux-Vives</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultation de psychiatrie adulte - Eaux-Vives</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue du 31-Décembre 36</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.372.31.03</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.160252982105922,46.20283115434,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Hôpital des Trois-Chênes (Gériatrie) anciennement HOGER</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hôpital des Trois-Chênes (Gériatrie) anciennement HOGER</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Hôpital des Trois-Chênes (Gériatrie) anciennement HOGER</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Hôpital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>chemin Pont-Bochet 3</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 305 61 11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.hug-ge.ch">http://www.hug-ge.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>16</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.215596911738351,46.20907825364363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Hôpital des enfants</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hôpital des enfants</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Hôpital des enfants</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Hôpital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue Willy-Donzé 6</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.372.33.11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.147546252766577,46.19046733644105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Consultation de psychiatrie adulte - Jonction</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultation de psychiatrie adulte - Jonction</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultation de psychiatrie adulte - Jonction</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>boulevard Saint-Georges 16</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.327.75.55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.132812907404512,46.20119812917986,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Centre de soins continus (CESCO)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Centre de soins continus (CESCO)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Centre de soins continus (CESCO)</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Hôpital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>11 chemin de la Savonnière</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 305 71 11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.hug-ge.ch">http://www.hug-ge.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.206180224520467,46.25880486206012,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Centre santé migrants</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Centre santé migrants</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Centre santé migrants</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue de Lyon 89</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.372.33.33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.124130423655092,46.20861840938269,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Consultation de psychiatrie de l'enfant et de l'adolescent (Guidance infantile)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultation de psychiatrie de l'enfant et de l'adolescent (Guidance infantile)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultation de psychiatrie de l'enfant et de l'adolescent (Guidance infantile)</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>chemin des Crêts-de-Champel 41</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.382.89.89</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.157034626234148,46.1869066520683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Clinique de psychiatrie (Belle-Idée)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique de psychiatrie (Belle-Idée)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique de psychiatrie (Belle-Idée)</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>2 avenue du Petit-Bel-Air  1225 Chêne-Bougeries</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 305 41 11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 305 41 62</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.hug-ge.ch">http://www.hug-ge.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.207983378381898,46.20476908324211,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Consultation d'alcoologie</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultation d'alcoologie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultation d'alcoologie</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>route des Acacias 5</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.304.45.55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.138019516798607,46.19277839521075,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Beau-Séjour</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Beau-Séjour</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Beau-Séjour</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Hôpital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>avenue de Beau-Séjour 26</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.372.33.11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.149829764327327,46.18860637037794,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Maternité</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Maternité</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Maternité</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Hôpital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>boulevard de la Cluse 30</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.382.68.16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.146315808269316,46.19108509203894,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Consultation de psychiatrie adulte - Servette</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultation de psychiatrie adulte - Servette</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultation de psychiatrie adulte - Servette</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue de Lyon 91</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.372.32.80</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.123879303719343,46.20866577605497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Hôpital de Loëx</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hôpital de Loëx</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Hôpital de Loëx</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Hôpital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>151 route de Loëx</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 727 27 27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.hug-ge.ch">http://www.hug-ge.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>17</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.084164416357987,46.19904585809863,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Clinique Générale-Baulieu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique Générale-Baulieu</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique Générale-Baulieu</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>20 chemin Beau-Soleil  1206 Genève</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 839 55 55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 839 55 56</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.beaulieu.ch">http://www.beaulieu.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>10</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.161843630914938,46.18897053744836,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Clinique genevoise de Joli-Mont</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique genevoise de Joli-Mont</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique genevoise de Joli-Mont</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Hôpital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>45 avenue TREMBLEY  1209 Genève</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 717 03 11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 717 03 10</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.hug-ge.ch">http://www.hug-ge.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.117384469468572,46.22156980591679,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Equipe mobile de soins communautaires</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Equipe mobile de soins communautaires</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Equipe mobile de soins communautaires</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue Hugo-de-Senger 2</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.382.53.11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.140843360509969,46.19394389064699,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Clinique La Colline</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique La Colline</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique La Colline</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>6 avenue Beau-Séjour  1206 Genève</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 346 34 22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 347 99 13</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.lacolline.ch">http://www.lacolline.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>12</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.150039720913281,46.19138041674549,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Clinique Burki de chirurgie estétique</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique Burki de chirurgie estétique</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique Burki de chirurgie estétique</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>2 place CLAPAREDE  1205 Genève</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 347 11 91</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 347 13 88</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.150658051151131,46.1962884019699,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Clinique de Carouge</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique de Carouge</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique de Carouge</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>1 avenue Cardinal-MERMILLOD</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 309 45 45</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 309 45 00</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.latour.ch/carouge/car_menu.html">http://www.latour.ch/carouge/car_menu.html</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.142544902627543,46.18673351553719,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Clinique Rive Droite</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique Rive Droite</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique Rive Droite</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>65 rue de Lausanne  1202 Genève</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 731 68 68</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 738 22 60</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>13</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.14684509846404,46.21559373228488,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Centre d'information familiale et de régulation des naissances (CIFERN)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Centre d'information familiale et de régulation des naissances (CIFERN)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Centre d'information familiale et de régulation des naissances (CIFERN)</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>boulevard de la Cluse 47</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.372.55.00</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.145993665227055,46.19143794465015,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Poliger Bains</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Poliger Bains</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Poliger Bains</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue des Bains 35</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.809.82.11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.137061507007636,46.19888582479243,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Poliger Campagne</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Poliger Campagne</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Poliger Campagne</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>route de Loëx 151</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.307.29.70</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.085580267959749,46.19875605242584,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Hôpital La Tour</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hôpital La Tour</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Hôpital La Tour</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>3 avenue J.-D. MAILLARD  1217 Meyrin</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 719 61 11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 719 61 12</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.latour.ch">http://www.latour.ch</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>18</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.067279525910753,46.22911933441771,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Consultation toxicodépendance - Rive droite</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultation toxicodépendance - Rive droite</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultation toxicodépendance - Rive droite</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue des Pâquis 35</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.716.55.11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.1493969699836,46.21193223902106,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Clinique Belmont</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique Belmont</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique Belmont</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>26 route de Chêne  1207 Genève</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 735 78 11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 735 10 55</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.16581355600206,46.19980452945082,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Consultation de psychiatrie adulte - Pâquis</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultation de psychiatrie adulte - Pâquis</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultation de psychiatrie adulte - Pâquis</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue de Lausanne 67</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.716.44.11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.147164640998825,46.21590733045815,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Clinique Vert-Pré</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique Vert-Pré</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique Vert-Pré</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>15 chemin de la Colombe  1231 Conches</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 704 31 31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 704 31 00</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td><a target="_blank" href="http://www.vertpre.com">http://www.vertpre.com</a></td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>14</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.177480822672862,46.18752642219201,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Clinique d'Onex</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique d'Onex</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique d'Onex</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>3 route de Loëx  1213  Onex</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 879 50 04</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 879 50 59</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.099089046792587,46.18340128164282,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Consultation de médecine et prévention de la violence (CIMPV)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultation de médecine et prévention de la violence (CIMPV)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultation de médecine et prévention de la violence (CIMPV)</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue Micheli-du-Crest 24</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.372.96.41</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.148916693500389,46.19340742912888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Consultation de psychiatrie gériatrique</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Consultation de psychiatrie gériatrique</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Consultation de psychiatrie gériatrique</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>HUG consultations ambulatoires</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue des Épinettes 12 ter</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.304.49.60</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.135955669496684,46.18978616255815,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Cressy santé</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cressy santé</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Cressy santé</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Cressy santé</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>route de Loëx 99</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.727.15.15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.087919014029985,46.18522228121874,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Service d'ophtalmologie</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Service d'ophtalmologie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Service d'ophtalmologie</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Hôpital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>rue Alcide-Jentzer 22</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022.382.84.00</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td></td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.148290234753763,46.19118236978596,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Clinique du Mail</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clinique du Mail</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOM_ETABLISSEMENT</td>
+<td>Clinique du Mail</td>
+</tr>
+<tr>
+<td>TYPE_ETABLISSEMENT</td>
+<td>Clinique</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADRESSE</td>
+<td>5 rue Charles HUMBERT  1205 Genève</td>
+</tr>
+<tr>
+<td>TELEPHONE</td>
+<td>022 809 01 01</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FAX</td>
+<td>022 809 01 00</td>
+</tr>
+<tr>
+<td>PHOTO</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SITE_WEB</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>NUMERO_CLASSEMENT</td>
+<td>9</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.13845571415401,46.20007976787157,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_12c406e0_0.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
